@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WencaiMonitor", "WencaiMonitor\WencaiMonitor.csproj", "{3179A63C-693E-4407-A4BA-37403A9DAECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3179A63C-693E-4407-A4BA-37403A9DAECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3179A63C-693E-4407-A4BA-37403A9DAECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3179A63C-693E-4407-A4BA-37403A9DAECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3179A63C-693E-4407-A4BA-37403A9DAECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687BEE27-BD1C-4D13-B05B-69740D87D706}
+	EndGlobalSection
+EndGlobal
